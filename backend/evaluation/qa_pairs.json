@@ -1,0 +1,282 @@
+[
+  {
+    "id": "q1",
+    "type": "simple_factual",
+    "question": "What is the minimum net worth requirement prescribed by SEBI for an Asset Management Company (AMC) managing mutual funds?",
+    "ground_truth": "Under SEBI (Mutual Funds) Regulations, the asset management company is required to maintain a continuous net worth of not less than Rs 50 Crore.",
+    "relevant_entities": ["sebi", "asset_management_company", "net_worth"],
+    "reference_circulars": ["SEBI_MF_REG_1996"]
+  },
+  {
+    "id": "q2",
+    "type": "simple_factual",
+    "question": "What is the mandatory cut-off timing for submission of applications for subscription in liquid and overnight mutual fund schemes?",
+    "ground_truth": "The cut-off time for subscription in Liquid Funds and Overnight Funds is 1:30 PM for applicable NAV calculation.",
+    "relevant_entities": ["liquid_fund", "overnight_fund", "nav_cut_off_timing"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2019_101"]
+  },
+  {
+    "id": "q3",
+    "type": "simple_factual",
+    "question": "What is the maximum investment limit for a mutual fund scheme in debt instruments issued by a single issuer?",
+    "ground_truth": "A mutual fund scheme shall not invest more than 10% of its NAV in debt and money market securities rated AAA/AA issued by a single issuer, extendable to 12% with prior approval.",
+    "relevant_entities": ["debt_scheme", "single_issuer_limit", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2021_024"]
+  },
+  {
+    "id": "q4",
+    "type": "simple_factual",
+    "question": "Who must approve the appointment of an Asset Management Company (AMC)?",
+    "ground_truth": "The appointment of an Asset Management Company can only be made by the trustees and must be approved by the Securities and Exchange Board of India (SEBI).",
+    "relevant_entities": ["trustees", "asset_management_company", "sebi"],
+    "reference_circulars": ["SEBI_MF_REG_1996"]
+  },
+  {
+    "id": "q5",
+    "type": "simple_factual",
+    "question": "Under RBI guidelines, what constitutes Priority Sector Lending (PSL) target for domestic commercial banks?",
+    "ground_truth": "Domestic scheduled commercial banks are mandated to achieve a total priority sector lending target of 40% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE).",
+    "relevant_entities": ["rbi", "priority_sector_lending", "scheduled_commercial_bank"],
+    "reference_circulars": ["RBI_FIDD_CO_Plan_BC_08_2020"]
+  },
+  {
+    "id": "q6",
+    "type": "simple_factual",
+    "question": "What is the minimum lock-in period for Equity Linked Savings Schemes (ELSS)?",
+    "ground_truth": "Investments in Equity Linked Savings Schemes (ELSS) have a mandatory statutory lock-in period of 3 years from the date of allotment.",
+    "relevant_entities": ["elss", "lock_in_period", "sebi"],
+    "reference_circulars": ["SEBI_ELSS_GUIDELINES_2005"]
+  },
+  {
+    "id": "q7",
+    "type": "simple_factual",
+    "question": "What is the maximum Total Expense Ratio (TER) permissible for an open-ended equity scheme with AUM up to Rs 500 Crore?",
+    "ground_truth": "For open-ended equity-oriented mutual fund schemes, the maximum TER permissible on the first Rs 500 Crore of daily net assets is 2.25%.",
+    "relevant_entities": ["total_expense_ratio", "equity_scheme", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2018_137"]
+  },
+  {
+    "id": "q8",
+    "type": "simple_factual",
+    "question": "How often must the Risk-o-meter for mutual fund schemes be evaluated and disclosed to investors?",
+    "ground_truth": "AMCs must evaluate risk of all schemes on a monthly basis based on month-end portfolio and publish the updated Risk-o-meter within 10 days from the close of each month on their website and AMFI.",
+    "relevant_entities": ["risk_o_meter", "asset_management_company", "amfi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF3_CIR_P_2020_197"]
+  },
+  {
+    "id": "q9",
+    "type": "simple_factual",
+    "question": "What is the minimum percentage of scheme assets that must be held in liquid assets by open-ended liquid mutual funds?",
+    "ground_truth": "Open-ended liquid schemes are mandated to maintain at least 20% of net assets in liquid assets such as cash, government securities, T-Bills, and repo on G-Secs.",
+    "relevant_entities": ["liquid_scheme", "liquid_assets", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2019_101"]
+  },
+  {
+    "id": "q10",
+    "type": "simple_factual",
+    "question": "What is the minimum holding period required before an AMC can levy an exit load on overnight mutual fund schemes?",
+    "ground_truth": "Overnight schemes cannot levy any exit load on investors, whereas liquid funds apply a graded exit load up to day 7.",
+    "relevant_entities": ["overnight_fund", "exit_load", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2019_101"]
+  },
+  {
+    "id": "q11",
+    "type": "simple_factual",
+    "question": "What is the regulatory role of a Custodian under SEBI mutual fund guidelines?",
+    "ground_truth": "A Custodian holds the custody of securities and assets of the mutual fund scheme, independent of the AMC and sponsor, and handles settlements of securities.",
+    "relevant_entities": ["custodian", "sebi", "asset_management_company"],
+    "reference_circulars": ["SEBI_MF_REG_1996"]
+  },
+  {
+    "id": "q12",
+    "type": "simple_factual",
+    "question": "What is the foreign exchange borrowing framework limit for automatic route under RBI Master Direction on ECB?",
+    "ground_truth": "Under the automatic route of RBI Master Direction on External Commercial Borrowings (ECB), eligible entities can borrow up to USD 750 million or equivalent per financial year.",
+    "relevant_entities": ["rbi", "external_commercial_borrowing", "fema"],
+    "reference_circulars": ["RBI_FED_MD_ECB_2019"]
+  },
+  {
+    "id": "q13",
+    "type": "simple_factual",
+    "question": "What is the minimum investment in equity and equity-related instruments required for a Multi Cap Fund?",
+    "ground_truth": "A Multi Cap Fund must invest a minimum of 75% of total assets in equity, with at least 25% each in large cap, mid cap, and small cap companies.",
+    "relevant_entities": ["multi_cap_fund", "large_cap", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF3_CIR_P_2020_172"]
+  },
+  {
+    "id": "q14",
+    "type": "simple_factual",
+    "question": "How quickly must mutual funds pay dividend / distribution proceeds to unitholders upon declaration?",
+    "ground_truth": "Mutual funds are required to dispatch dividend or IDCW warrants / transfers to unitholders within 7 working days from the record date.",
+    "relevant_entities": ["dividend", "unitholders", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_IMD_I_DOF1_P_CIR_2022_161"]
+  },
+  {
+    "id": "q15",
+    "type": "simple_factual",
+    "question": "What is the capital adequacy ratio (CRAR) required by RBI for Scheduled Commercial Banks under Basel III norms?",
+    "ground_truth": "RBI mandates a minimum Capital to Risk Weighted Assets Ratio (CRAR) of 9% (plus Capital Conservation Buffer of 2.5% making it 11.5%) for Scheduled Commercial Banks.",
+    "relevant_entities": ["rbi", "crar", "basel_iii", "scheduled_commercial_bank"],
+    "reference_circulars": ["RBI_DBR_PR_BASEL_III_2015"]
+  },
+  {
+    "id": "q16",
+    "type": "multi_hop",
+    "question": "How did SEBI's circular on scheme categorization impact the investment portfolio allocation of Large & Mid Cap and Multi Cap mutual fund schemes?",
+    "ground_truth": "Under SEBI's 2017 categorization circular, Multi Cap had flexible allocations. However, SEBI circular SEBI/HO/IMD/DF3/CIR/P/2020/172 amended this to mandate minimum 25% each in large, mid, and small cap stocks, whereas Large & Mid Cap schemes require at least 35% in large cap and 35% in mid cap stocks.",
+    "relevant_entities": ["multi_cap_fund", "large_cap", "mid_cap", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF3_CIR_P_2017_114", "SEBI_HO_IMD_DF3_CIR_P_2020_172"]
+  },
+  {
+    "id": "q17",
+    "type": "multi_hop",
+    "question": "Tracing SEBI circulars on debt mutual funds, what liquidity framework was instituted following credit events, and which schemes does it govern?",
+    "ground_truth": "Following credit and liquidity events, SEBI circular SEBI/HO/IMD/DF2/CIR/P/2019/101 mandated 20% liquid assets for liquid schemes and graded exit loads, subsequently extended by circulars in 2020/2021 to mandate stress testing and minimum liquidity buffers for all open-ended debt schemes.",
+    "relevant_entities": ["liquid_scheme", "debt_scheme", "sebi", "exit_load"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2019_101", "SEBI_HO_IMD_DF3_CIR_P_2020_229"]
+  },
+  {
+    "id": "q18",
+    "type": "multi_hop",
+    "question": "What governance obligations were placed on Key Managerial Personnel of AMCs regarding investing their own funds into the schemes they manage?",
+    "ground_truth": "SEBI circular SEBI/HO/IMD/IMD-I/DOF5/P/CIR/2021/553 mandated that Key Employees of AMCs must invest a minimum of 20% of their gross annual salary or perks in units of the schemes they oversee, locked in for 3 years or scheme tenure.",
+    "relevant_entities": ["asset_management_company", "key_employees", "skin_in_the_game", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_IMD_I_DOF5_P_CIR_2021_553"]
+  },
+  {
+    "id": "q19",
+    "type": "multi_hop",
+    "question": "How do SEBI regulations and circulars govern the valuation of unrated debt securities held by mutual funds when a credit downgrade occurs?",
+    "ground_truth": "Under SEBI valuation guidelines, if a debt instrument falls below investment grade, AMCs must value it based on matrix provided by credit rating agencies AMFI-appointed agencies (CRISIL/ICRA), write down face value by standard haircut matrices, and consider creating a segregated portfolio (side pocket) under SEBI circular SEBI/HO/IMD/DF2/CIR/P/2018/160.",
+    "relevant_entities": ["segregated_portfolio", "haircut", "credit_rating_agency", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2018_160", "SEBI_HO_IMD_DF4_CIR_P_2019_102"]
+  },
+  {
+    "id": "q20",
+    "type": "multi_hop",
+    "question": "Explain the interaction between RBI Master Direction on NBFC scale-based regulation and bank exposure ceilings to NBFCs.",
+    "ground_truth": "RBI's Scale-Based Regulation (SBR) categorizes NBFCs into Base, Middle, Upper, and Top layers. In tandem, RBI's Large Exposure Framework (LEF) limits single NBFC exposure for banks to 20% of Tier 1 capital, and mandates higher risk weights for unrated NBFC exposures.",
+    "relevant_entities": ["rbi", "nbfc", "scale_based_regulation", "large_exposure_framework"],
+    "reference_circulars": ["RBI_DOR_CRE_REC_NO_60_2021", "RBI_LARGE_EXPOSURE_FRAMEWORK_2019"]
+  },
+  {
+    "id": "q21",
+    "type": "multi_hop",
+    "question": "Which regulatory circulars establish the two-tier benchmark framework for mutual funds, and how are first-tier and second-tier benchmarks distinguished?",
+    "ground_truth": "SEBI circular SEBI/HO/IMD/IMD-II_DOF7/P/CIR/2021/652 created a two-tier benchmark framework where Tier 1 reflects the category of the scheme (broad market index) and Tier 2 reflects the specific investment style or strategy of the fund manager.",
+    "relevant_entities": ["benchmark", "sebi", "asset_management_company", "amfi"],
+    "reference_circulars": ["SEBI_HO_IMD_IMD_II_DOF7_P_CIR_2021_652"]
+  },
+  {
+    "id": "q22",
+    "type": "multi_hop",
+    "question": "What is the procedure when a mutual fund creates a segregated portfolio (side-pocketing), and who must approve the proposal?",
+    "ground_truth": "Under SEBI circular SEBI/HO/IMD/DF2/CIR/P/2018/160, upon a credit event below investment grade, the AMC must obtain approval from the Board of Trustees within 2 days, issue a press release, and segregate debt and money market instruments from total portfolio.",
+    "relevant_entities": ["segregated_portfolio", "trustees", "asset_management_company", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2018_160"]
+  },
+  {
+    "id": "q23",
+    "type": "multi_hop",
+    "question": "How did RBI's Master Directions on digital payment security controls affect Scheduled Commercial Banks and their third-party application providers?",
+    "ground_truth": "RBI Master Direction on Digital Payment Security Controls requires regulated entities to enforce end-to-end encryption, multi-factor authentication, secure API connectivity, and periodic vulnerability testing on all third-party vendors and service providers.",
+    "relevant_entities": ["rbi", "digital_payments", "cyber_security", "scheduled_commercial_bank"],
+    "reference_circulars": ["RBI_DPS_SECURITY_CONTROLS_2021"]
+  },
+  {
+    "id": "q24",
+    "type": "multi_hop",
+    "question": "In what manner did SEBI's circular on pooled accounts by stock brokers impact the transaction flow for mutual fund unitholders investing via intermediaries?",
+    "ground_truth": "SEBI circular SEBI/HO/IMD/IMD-I/DOF5/P/CIR/2021/634 discontinued pooling of funds and units by stock brokers and mutual fund distributors, mandating that investor funds must flow directly to the clearing corporation / AMC account without being routed through broker intermediary pool accounts.",
+    "relevant_entities": ["pooled_accounts", "stock_brokers", "amc", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_IMD_I_DOF5_P_CIR_2021_634"]
+  },
+  {
+    "id": "q25",
+    "type": "multi_hop",
+    "question": "What are the risk management requirements when an Indian bank borrows via External Commercial Borrowings (ECB) according to RBI directions?",
+    "ground_truth": "Entities raising ECBs must comply with mandatory hedging guidelines (minimum 70% hedging of currency risk for infrastructure/specified tenors), leverage limitations, and strict end-use restrictions prohibiting real estate and stock market investments.",
+    "relevant_entities": ["rbi", "ecb", "hedging", "foreign_exchange"],
+    "reference_circulars": ["RBI_FED_MD_ECB_2019"]
+  },
+  {
+    "id": "q26",
+    "type": "comparative",
+    "question": "How does the investment mandate of an Overnight Fund differ from a Liquid Fund under SEBI categorization circulars?",
+    "ground_truth": "Overnight Funds can only invest in debt securities having maturity of 1 business day and carry no exit load, whereas Liquid Funds can invest in debt and money market securities with maturity up to 91 days, must hold 20% liquid assets, and levy a graded exit load up to 7 days.",
+    "relevant_entities": ["overnight_fund", "liquid_fund", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF3_CIR_P_2017_114", "SEBI_HO_IMD_DF2_CIR_P_2019_101"]
+  },
+  {
+    "id": "q27",
+    "type": "comparative",
+    "question": "How does SEBI treat Flexi Cap Funds versus Multi Cap Funds in terms of equity market cap allocation constraints?",
+    "ground_truth": "Multi Cap Funds are mandated to invest at least 75% in equity with a strict minimum of 25% each in large-cap, mid-cap, and small-cap stocks. In contrast, Flexi Cap Funds require a minimum of 65% in equity across large, mid, and small cap stocks without any fixed percentage floor per market cap band.",
+    "relevant_entities": ["flexi_cap_fund", "multi_cap_fund", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF3_CIR_P_2020_172", "SEBI_HO_IMD_DF3_CIR_P_2020_228"]
+  },
+  {
+    "id": "q28",
+    "type": "comparative",
+    "question": "What are the differences between Direct Plans and Regular Plans of mutual fund schemes regarding Total Expense Ratio and distributor commissions?",
+    "ground_truth": "Direct Plans have a lower Total Expense Ratio (TER) because no distributor commissions or brokerage fees are paid from the scheme assets, resulting in higher NAV compared to Regular Plans which include ongoing distributor commissions.",
+    "relevant_entities": ["direct_plan", "regular_plan", "total_expense_ratio", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2012_175"]
+  },
+  {
+    "id": "q29",
+    "type": "comparative",
+    "question": "How do Priority Sector Lending requirements differ between Domestic Scheduled Commercial Banks and Foreign Banks with less than 20 branches under RBI Master Directions?",
+    "ground_truth": "Both categories have a total PSL target of 40% of ANBC. However, domestic banks have sub-targets for agriculture (18%) and micro-enterprises (7.5%), whereas foreign banks with less than 20 branches have no sub-targets and can meet their 40% target across any PSL sectors.",
+    "relevant_entities": ["rbi", "priority_sector_lending", "scheduled_commercial_bank"],
+    "reference_circulars": ["RBI_FIDD_CO_Plan_BC_08_2020"]
+  },
+  {
+    "id": "q30",
+    "type": "comparative",
+    "question": "Compare the reporting and disclosure frequencies of the scheme portfolio between Full Portfolio disclosures versus Fortnightly Debt disclosures.",
+    "ground_truth": "Full portfolio disclosures must be published on a monthly and half-yearly basis within 10 days of month-end, whereas debt schemes must publish a fortnightly portfolio statement on their websites within 5 days of every fortnight.",
+    "relevant_entities": ["portfolio_disclosure", "debt_scheme", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF2_CIR_P_2021_024"]
+  },
+  {
+    "id": "q31",
+    "type": "comparative",
+    "question": "How do the redemption proceeds settlement timelines differ for equity mutual funds versus debt/liquid funds under updated SEBI guidelines?",
+    "ground_truth": "Under updated settlement cycles following T+1 Indian stock market rolling settlement, equity mutual fund redemption payouts occur within T+2 business days, while liquid and debt fund redemption payouts occur within T+1 business days.",
+    "relevant_entities": ["redemption_timeline", "equity_scheme", "liquid_scheme", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_IMD_I_DOF1_P_CIR_2022_161"]
+  },
+  {
+    "id": "q32",
+    "type": "comparative",
+    "question": "What is the difference in regulatory treatment between Tier 1 Capital and Tier 2 Capital under RBI Basel III norms?",
+    "ground_truth": "Tier 1 Capital consists of Common Equity Tier 1 (CET1) and Additional Tier 1 (AT1) representing core going-concern loss-absorbing capital, whereas Tier 2 Capital consists of gone-concern capital such as general provisions and subordinated debt providing secondary protection.",
+    "relevant_entities": ["tier_1_capital", "tier_2_capital", "rbi", "basel_iii"],
+    "reference_circulars": ["RBI_DBR_PR_BASEL_III_2015"]
+  },
+  {
+    "id": "q33",
+    "type": "comparative",
+    "question": "How do the valuation mechanisms of money market instruments up to 30 days maturity compare with those above 30 days under revised SEBI circulars?",
+    "ground_truth": "Previously, instruments up to 60/30 days could be valued on an amortization basis. Revised SEBI circulars eliminated amortization for all debt and money market instruments regardless of residual maturity, requiring mark-to-market valuation based on valuation agency prices.",
+    "relevant_entities": ["amortization", "mark_to_market", "sebi", "debt_valuation"],
+    "reference_circulars": ["SEBI_HO_IMD_DF4_CIR_P_2019_102"]
+  },
+  {
+    "id": "q34",
+    "type": "comparative",
+    "question": "How does SEBI's categorization differentiate an Arbitrage Fund from an Equity Savings Fund?",
+    "ground_truth": "An Arbitrage Fund invests a minimum of 65% in equity and equity-related instruments exclusively through arbitrage opportunities (cash-futures spread) with debt in the remainder. An Equity Savings Fund invests in a mix of equity (min 65% total, min 10% unhedged directional equity), arbitrage, and debt securities (min 10%).",
+    "relevant_entities": ["arbitrage_fund", "equity_savings_fund", "sebi"],
+    "reference_circulars": ["SEBI_HO_IMD_DF3_CIR_P_2017_114"]
+  },
+  {
+    "id": "q35",
+    "type": "comparative",
+    "question": "How does the role of the Board of Trustees compare with the Board of Directors of an Asset Management Company (AMC)?",
+    "ground_truth": "The Board of Trustees acts as a fiduciary oversight body protecting unitholder interests and holding the property of the mutual fund in trust, whereas the AMC Board of Directors manages day-to-day operations, scheme portfolio management, and business administration under trustee oversight.",
+    "relevant_entities": ["trustees", "asset_management_company", "sebi"],
+    "reference_circulars": ["SEBI_MF_REG_1996"]
+  }
+]

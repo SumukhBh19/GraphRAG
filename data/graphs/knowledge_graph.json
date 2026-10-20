@@ -1,0 +1,4494 @@
+{
+  "metadata": {
+    "total_nodes": 96,
+    "total_edges": 104
+  },
+  "nodes": [
+    {
+      "name": "RBI/FED/2018-19/67",
+      "entity_type": "Circular",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "properties": {
+        "date": "March 26, 2019",
+        "regulator": "RBI"
+      },
+      "id": "rbifed2018_1967"
+    },
+    {
+      "name": "Reserve Bank of India",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf",
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "RBI_FED_2019_001.pdf#p2#c0",
+        "RBI_FIDD_2020_008.pdf#p1#c0",
+        "RBI_FIDD_2020_008.pdf#p1#c1",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {
+        "category": "Regulator"
+      },
+      "id": "reserve_bank_of_india"
+    },
+    {
+      "name": "FED Master Direction No.5/2018-19",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "fed_master_direction_no52018_19"
+    },
+    {
+      "name": "March 26, 2019",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "march_26_2019"
+    },
+    {
+      "name": "Foreign Exchange Management",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "foreign_exchange_management"
+    },
+    {
+      "name": "FEMA",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "fema"
+    },
+    {
+      "name": "1999",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "1999"
+    },
+    {
+      "name": "Authorized Dealer (AD Category-I",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "authorized_dealer_ad_category_i"
+    },
+    {
+      "name": "Empowered Committee",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "empowered_committee"
+    },
+    {
+      "name": "3 years",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf",
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "3_years"
+    },
+    {
+      "name": "USD 50 million",
+      "entity_type": "Obligation",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "usd_50_million"
+    },
+    {
+      "name": "MAMP",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "mamp"
+    },
+    {
+      "name": "1 year",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "1_year"
+    },
+    {
+      "name": "less than 5 years",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "less_than_5_years"
+    },
+    {
+      "name": "FED Master Direction No.5/2018-19 - Regulatory Compliance Intelligence System",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "fed_master_direction_no52018_19_regulatory_compliance_intelligence_system"
+    },
+    {
+      "name": "March 26, 2019\n5",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "march_26_2019_5"
+    },
+    {
+      "name": "Negative List / End-Use Restrictions",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "negative_list_end_use_restrictions"
+    },
+    {
+      "name": "5 years",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "5_years"
+    },
+    {
+      "name": "monthly",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf",
+        "SEBI_MF_2018_160.pdf",
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        2,
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0",
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "monthly"
+    },
+    {
+      "name": "7 working days",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "7_working_days"
+    },
+    {
+      "name": "RBI/FIDD/2020-21/72",
+      "entity_type": "Circular",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0",
+        "RBI_FIDD_2020_008.pdf#p1#c1",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {
+        "date": "September 04, 2020",
+        "regulator": "RBI"
+      },
+      "id": "rbifidd2020_2172"
+    },
+    {
+      "name": "September 04, 2020",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "september_04_2020"
+    },
+    {
+      "name": "Classification",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "classification"
+    },
+    {
+      "name": "Section 21 and Section 35A",
+      "entity_type": "Regulation",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "section_21_and_section_35a"
+    },
+    {
+      "name": "1949",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "1949"
+    },
+    {
+      "name": "Regional Rural Banks",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "regional_rural_banks"
+    },
+    {
+      "name": "Small Finance Banks",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "small_finance_banks"
+    },
+    {
+      "name": "Domestic Scheduled Commercial Banks and Foreign Banks",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "domestic_scheduled_commercial_banks_and_foreign_banks"
+    },
+    {
+      "name": "Adjusted Net Bank Credit",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "adjusted_net_bank_credit"
+    },
+    {
+      "name": "Credit Equivalent Amount of Off-Balance Sheet\nExposure",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "credit_equivalent_amount_of_off_balance_sheet_exposure"
+    },
+    {
+      "name": "A of the Banking\nRegulation Act, 1949",
+      "entity_type": "Regulation",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "a_of_the_banking_regulation_act_1949"
+    },
+    {
+      "name": "ANBC",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "anbc"
+    },
+    {
+      "name": "Small and Marginal Farmers",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "small_and_marginal_farmers"
+    },
+    {
+      "name": "Micro Enterprises",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "micro_enterprises"
+    },
+    {
+      "name": "Weaker Sections",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "weaker_sections"
+    },
+    {
+      "name": "Foreign Banks with Less Than 20 Branches",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "foreign_banks_with_less_than_20_branches"
+    },
+    {
+      "name": "PSL",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "psl"
+    },
+    {
+      "name": "Agriculture and Micro Enterprises",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "properties": {},
+      "id": "agriculture_and_micro_enterprises"
+    },
+    {
+      "name": "quarterly",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf",
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0",
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "quarterly"
+    },
+    {
+      "name": "annual",
+      "entity_type": "Date",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "annual"
+    },
+    {
+      "name": "Non-Achievement",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "non_achievement"
+    },
+    {
+      "name": "the Rural Infrastructure\nDevelopment Fund",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "the_rural_infrastructure_development_fund"
+    },
+    {
+      "name": "the Reserve Bank",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "the_reserve_bank"
+    },
+    {
+      "name": "India",
+      "entity_type": "Entity",
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf",
+        "SEBI_MF_2019_101.pdf",
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        2,
+        1
+      ],
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0",
+        "SEBI_MF_2019_101.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "india"
+    },
+    {
+      "name": "SEBI/HO/IMD/DF2/CIR/P/2018/160",
+      "entity_type": "Circular",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "properties": {
+        "date": "December 28, 2018",
+        "regulator": "SEBI"
+      },
+      "id": "sebihoimddf2cirp2018160"
+    },
+    {
+      "name": "Securities and Exchange Board of India",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf",
+        "SEBI_MF_2019_101.pdf",
+        "SEBI_MF_2020_172.pdf",
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0",
+        "SEBI_MF_2019_101.pdf#p1#c0",
+        "SEBI_MF_2019_101.pdf#p2#c0",
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0",
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {
+        "category": "Regulator"
+      },
+      "id": "sebi"
+    },
+    {
+      "name": "December 28, 2018",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "december_28_2018"
+    },
+    {
+      "name": "an Asset Management Company",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "an_asset_management_company"
+    },
+    {
+      "name": "AMC",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf",
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0",
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "asset_management_company"
+    },
+    {
+      "name": "Credit Rating Agency",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "credit_rating_agency"
+    },
+    {
+      "name": "the Board of Trustees",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf",
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "the_board_of_trustees"
+    },
+    {
+      "name": "2 working days",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "2_working_days"
+    },
+    {
+      "name": "CRISIL",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "crisil"
+    },
+    {
+      "name": "ICRA",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "icra"
+    },
+    {
+      "name": "TER",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "ter"
+    },
+    {
+      "name": "Segregated Portfolio",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "segregated_portfolio"
+    },
+    {
+      "name": "10 working days",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "10_working_days"
+    },
+    {
+      "name": "SEBI/HO/IMD/DF2/CIR/P/2019/101",
+      "entity_type": "Circular",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0",
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {
+        "date": "September 20, 2019",
+        "regulator": "SEBI"
+      },
+      "id": "sebihoimddf2cirp2019101"
+    },
+    {
+      "name": "September 20, 2019",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "september_20_2019"
+    },
+    {
+      "name": "Debt Mutual Fund Schemes",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "debt_mutual_fund_schemes"
+    },
+    {
+      "name": "Association of Mutual Funds",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf",
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "association_of_mutual_funds"
+    },
+    {
+      "name": "Cash, Government Securities",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "cash_government_securities"
+    },
+    {
+      "name": "Treasury",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "treasury"
+    },
+    {
+      "name": "Repo on Government Securities",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "repo_on_government_securities"
+    },
+    {
+      "name": "2 business days",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "2_business_days"
+    },
+    {
+      "name": "7 days",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "7_days"
+    },
+    {
+      "name": "1\nbusiness day",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "1_business_day"
+    },
+    {
+      "name": "September 20, 2019\n6",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "september_20_2019_6"
+    },
+    {
+      "name": "Cut-Off Timing for Subscription",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "cut_off_timing_for_subscription"
+    },
+    {
+      "name": "Liquid Funds",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "liquid_funds"
+    },
+    {
+      "name": "Overnight Funds",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "overnight_funds"
+    },
+    {
+      "name": "day",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "day"
+    },
+    {
+      "name": "NAV",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "nav"
+    },
+    {
+      "name": "1996",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf",
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "1996"
+    },
+    {
+      "name": "AAA",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "aaa"
+    },
+    {
+      "name": "the Board of Directors",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "the_board_of_directors"
+    },
+    {
+      "name": "the Asset Management Company",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "the_asset_management_company"
+    },
+    {
+      "name": "SEBI/HO/IMD/DF3/CIR/P/2020/172",
+      "entity_type": "Circular",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {
+        "date": "September 11, 2020",
+        "regulator": "SEBI"
+      },
+      "id": "sebihoimddf3cirp2020172"
+    },
+    {
+      "name": "September 11, 2020",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "september_11_2020"
+    },
+    {
+      "name": "All Mutual Funds / Asset Management Companies",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "all_mutual_funds_asset_management_companies"
+    },
+    {
+      "name": "P/2017/114",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "p2017114"
+    },
+    {
+      "name": "October 06, 2017",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "october_06_2017"
+    },
+    {
+      "name": "one month",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "one_month"
+    },
+    {
+      "name": "P/2020/172 - Regulatory Compliance Intelligence System",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "p2020172_regulatory_compliance_intelligence_system"
+    },
+    {
+      "name": "Regulation 43",
+      "entity_type": "Regulation",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "regulation_43"
+    },
+    {
+      "name": "Section 11(1",
+      "entity_type": "Regulation",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "section_111"
+    },
+    {
+      "name": "the Securities and Exchange Board",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "the_securities_and_exchange_board"
+    },
+    {
+      "name": "1992",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "1992"
+    },
+    {
+      "name": "Securities and Exchange Board of\nIndia Act, 1992",
+      "entity_type": "Regulation",
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "pages": [
+        2
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "properties": {},
+      "id": "securities_and_exchange_board_of_india_act_1992"
+    },
+    {
+      "name": "SEBI/HO/IMD/IMD-I/DOF5/P/CIR/2021/553",
+      "entity_type": "Circular",
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {
+        "date": "April 28, 2021",
+        "regulator": "SEBI"
+      },
+      "id": "sebihoimdimd_idof5pcir2021553"
+    },
+    {
+      "name": "April 28, 2021",
+      "entity_type": "Date",
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "april_28_2021"
+    },
+    {
+      "name": "Alignment of Interest of Designated Employees of Asset Management Companies",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "alignment_of_interest_of_designated_employees_of_asset_management_companies"
+    },
+    {
+      "name": "Key Employees",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "key_employees"
+    },
+    {
+      "name": "Designated Employees / Key Managerial Personnel",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "designated_employees_key_managerial_personnel"
+    },
+    {
+      "name": "Fund Managers",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "fund_managers"
+    },
+    {
+      "name": "Trustee",
+      "entity_type": "Entity",
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "pages": [
+        1
+      ],
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "properties": {},
+      "id": "trustee"
+    }
+  ],
+  "links": [
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by RBI",
+      "confidence": 1.0,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "reserve_bank_of_india"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "fed_master_direction_no52018_19"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "march_26_2019"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "foreign_exchange_management"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "fema"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "1999"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "authorized_dealer_ad_category_i"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "empowered_committee"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "3_years"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "usd_50_million"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "mamp"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "1_year"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "less_than_5_years"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "fed_master_direction_no52018_19_regulatory_compliance_intelligence_system"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "march_26_2019_5"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "negative_list_end_use_restrictions"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "5_years"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "monthly"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "7_working_days"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by RBI",
+      "confidence": 1.0,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0",
+        "RBI_FIDD_2020_008.pdf#p1#c1",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "reserve_bank_of_india"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "september_04_2020"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "classification"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "section_21_and_section_35a"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "1949"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "regional_rural_banks"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "small_finance_banks"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "domestic_scheduled_commercial_banks_and_foreign_banks"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "adjusted_net_bank_credit"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "credit_equivalent_amount_of_off_balance_sheet_exposure"
+    },
+    {
+      "relation_type": "GOVERNS",
+      "description": "Statutory reference",
+      "confidence": 0.9,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "a_of_the_banking_regulation_act_1949"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "anbc"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "small_and_marginal_farmers"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "micro_enterprises"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "weaker_sections"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "foreign_banks_with_less_than_20_branches"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "psl"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "agriculture_and_micro_enterprises"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "quarterly"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "annual"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "non_achievement"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "the_rural_infrastructure_development_fund"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "the_reserve_bank"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "india"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "december_28_2018"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "an_asset_management_company"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "asset_management_company"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "credit_rating_agency"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "the_board_of_trustees"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "2_working_days"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "crisil"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "icra"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "ter"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "segregated_portfolio"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "10_working_days"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "monthly"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0",
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "september_20_2019"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "debt_mutual_fund_schemes"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "association_of_mutual_funds"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "india"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "cash_government_securities"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "treasury"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "repo_on_government_securities"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "asset_management_company"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "2_business_days"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "7_days"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "1_business_day"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "september_20_2019_6"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "cut_off_timing_for_subscription"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "liquid_funds"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "overnight_funds"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "day"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "nav"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "1996"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "aaa"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "the_board_of_trustees"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "the_board_of_directors"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "the_asset_management_company"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "quarterly"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "september_11_2020"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "all_mutual_funds_asset_management_companies"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "p2017114"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "october_06_2017"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "one_month"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "association_of_mutual_funds"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "india"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "p2020172_regulatory_compliance_intelligence_system"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "1996"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "regulation_43"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "section_111"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "the_securities_and_exchange_board"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "1992"
+    },
+    {
+      "relation_type": "GOVERNS",
+      "description": "Statutory reference",
+      "confidence": 0.9,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "securities_and_exchange_board_of_india_act_1992"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "april_28_2021"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "alignment_of_interest_of_designated_employees_of_asset_management_companies"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "key_employees"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "designated_employees_key_managerial_personnel"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "fund_managers"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "3_years"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "trustee"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "monthly"
+    }
+  ],
+  "edges": [
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by RBI",
+      "confidence": 1.0,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "reserve_bank_of_india"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "fed_master_direction_no52018_19"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "march_26_2019"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "foreign_exchange_management"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "fema"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "1999"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "authorized_dealer_ad_category_i"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c0",
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "empowered_committee"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "3_years"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "usd_50_million"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "mamp"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "1_year"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "less_than_5_years"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p1#c1",
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "fed_master_direction_no52018_19_regulatory_compliance_intelligence_system"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "march_26_2019_5"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "negative_list_end_use_restrictions"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "5_years"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "monthly"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FED_2019_001.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FED_2019_001.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FED_2019_001.pdf"
+      ],
+      "source": "rbifed2018_1967",
+      "target": "7_working_days"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by RBI",
+      "confidence": 1.0,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0",
+        "RBI_FIDD_2020_008.pdf#p1#c1",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "reserve_bank_of_india"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "september_04_2020"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "classification"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "section_21_and_section_35a"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "1949"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "regional_rural_banks"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "small_finance_banks"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "domestic_scheduled_commercial_banks_and_foreign_banks"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "adjusted_net_bank_credit"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "credit_equivalent_amount_of_off_balance_sheet_exposure"
+    },
+    {
+      "relation_type": "GOVERNS",
+      "description": "Statutory reference",
+      "confidence": 0.9,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "a_of_the_banking_regulation_act_1949"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "anbc"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "small_and_marginal_farmers"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "micro_enterprises"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "weaker_sections"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "foreign_banks_with_less_than_20_branches"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1",
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "psl"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p1#c1",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p1#c1"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "agriculture_and_micro_enterprises"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "quarterly"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "annual"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "non_achievement"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "the_rural_infrastructure_development_fund"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "the_reserve_bank"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "RBI_FIDD_2020_008.pdf#p2#c0",
+      "chunk_ids": [
+        "RBI_FIDD_2020_008.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "RBI_FIDD_2020_008.pdf"
+      ],
+      "source": "rbifidd2020_2172",
+      "target": "india"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "december_28_2018"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "an_asset_management_company"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0",
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "asset_management_company"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "credit_rating_agency"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "the_board_of_trustees"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "2_working_days"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "crisil"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "icra"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "ter"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "segregated_portfolio"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "10_working_days"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2018_160.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2018_160.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2018_160.pdf"
+      ],
+      "source": "sebihoimddf2cirp2018160",
+      "target": "monthly"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0",
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "september_20_2019"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "debt_mutual_fund_schemes"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "association_of_mutual_funds"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "india"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "cash_government_securities"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "treasury"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "repo_on_government_securities"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "asset_management_company"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "2_business_days"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "7_days"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "1_business_day"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "september_20_2019_6"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "cut_off_timing_for_subscription"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "liquid_funds"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "overnight_funds"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "day"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "nav"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "1996"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "aaa"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "the_board_of_trustees"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "the_board_of_directors"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "the_asset_management_company"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2019_101.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2019_101.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2019_101.pdf"
+      ],
+      "source": "sebihoimddf2cirp2019101",
+      "target": "quarterly"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "september_11_2020"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "all_mutual_funds_asset_management_companies"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "p2017114"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "october_06_2017"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "one_month"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "association_of_mutual_funds"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "india"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p1#c0",
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "p2020172_regulatory_compliance_intelligence_system"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "1996"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "regulation_43"
+    },
+    {
+      "relation_type": "REFERS_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "section_111"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "the_securities_and_exchange_board"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "1992"
+    },
+    {
+      "relation_type": "GOVERNS",
+      "description": "Statutory reference",
+      "confidence": 0.9,
+      "source_chunk_id": "SEBI_MF_2020_172.pdf#p2#c0",
+      "chunk_ids": [
+        "SEBI_MF_2020_172.pdf#p2#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2020_172.pdf"
+      ],
+      "source": "sebihoimddf3cirp2020172",
+      "target": "securities_and_exchange_board_of_india_act_1992"
+    },
+    {
+      "relation_type": "ISSUED_BY",
+      "description": "Circular issued by SEBI",
+      "confidence": 1.0,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "sebi"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "april_28_2021"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "alignment_of_interest_of_designated_employees_of_asset_management_companies"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "key_employees"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "designated_employees_key_managerial_personnel"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "fund_managers"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "3_years"
+    },
+    {
+      "relation_type": "APPLIES_TO",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "trustee"
+    },
+    {
+      "relation_type": "EFFECTIVE_FROM",
+      "description": "Referenced in section",
+      "confidence": 0.85,
+      "source_chunk_id": "SEBI_MF_2021_553.pdf#p1#c0",
+      "chunk_ids": [
+        "SEBI_MF_2021_553.pdf#p1#c0"
+      ],
+      "source_documents": [
+        "SEBI_MF_2021_553.pdf"
+      ],
+      "source": "sebihoimdimd_idof5pcir2021553",
+      "target": "monthly"
+    }
+  ],
+  "directed": true,
+  "multigraph": false,
+  "graph": {}
+}
